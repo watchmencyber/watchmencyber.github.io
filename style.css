@@ -92,7 +92,7 @@ h1 { font-size: 4rem; line-height: 1.1; margin-bottom: 1.5rem; }
     .hero-split { flex-direction: column; }
     .hero-image-container { display: none; }
     h1 { font-size: 2.5rem; }
-    .btn-secondary { margin-top: 5%; }
+    /*.btn-secondary { margin-top: 5%; }*/
 }
 
 /* About Section Styles */
@@ -193,4 +193,5 @@ h1 { font-size: 4rem; line-height: 1.1; margin-bottom: 1.5rem; }
     box-shadow: 0 0 10px rgba(46, 91, 255, 0.2);
 
 }
+
 
