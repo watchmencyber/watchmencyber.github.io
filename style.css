@@ -92,6 +92,7 @@ h1 { font-size: 4rem; line-height: 1.1; margin-bottom: 1.5rem; }
     .hero-split { flex-direction: column; }
     .hero-image-container { display: none; }
     h1 { font-size: 2.5rem; }
+    .btn-secondary { padding: 1rem 4rem; }
 }
 
 /* About Section Styles */
@@ -190,4 +191,5 @@ h1 { font-size: 4rem; line-height: 1.1; margin-bottom: 1.5rem; }
     outline: none;
     border-color: var(--primary); /* Cobalt Blue */
     box-shadow: 0 0 10px rgba(46, 91, 255, 0.2);
+
 }
